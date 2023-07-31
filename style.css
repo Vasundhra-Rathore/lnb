@@ -1,0 +1,19 @@
+p{
+        color: rgb(40, 36, 36);
+        text-align: center;
+        background-color:gainsboro;
+    }
+table{
+        border-spacing:10px 15px;
+        border-collapse:seperate;
+        
+    }
+.abc{
+        background-color:cornflowerblue;
+        color: black;
+    }
+.true{
+        background-color:cornflowerblue;
+        color: black;
+
+    }
